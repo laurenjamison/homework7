@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'homework7-lnjamison'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_38BDDAA42B404B96899C176EDFDFBE46 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_21A88222B04C44499859DD8F92B40EF5 }}
