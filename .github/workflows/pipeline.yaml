@@ -1,4 +1,4 @@
-name: Test and Build and deploy  lnjamison-HW7
+name: Test and Build and deploy  lj-hw7
 
 on:
   push:
